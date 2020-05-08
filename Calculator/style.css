@@ -23,3 +23,9 @@ body {
 .btnw:hover{
     background-color: #fff;
 }
+.btn:active {
+    background-color: #bbbcbe;
+}
+.btn-func:active {
+    background-color: #dd8d37;
+}
